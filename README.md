@@ -16,7 +16,8 @@ I'm Mayur, a passionate programmer and BCA student. I thrive on solving complex 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur68&layout=compact&theme=radical)](https://github.com/Mayur68)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mayur68.Mayur68)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FMayur68%2Fgithub_visitors)
+
 ### Some Cool Projects 🚀
 - [BitBliss](link): fully fuctional cloud webapp.
 
