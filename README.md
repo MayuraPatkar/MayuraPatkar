@@ -13,8 +13,8 @@ I'm Mayur, a passionate programmer and BCA student. I thrive on solving complex 
 - **Twitter:** [[Mayur](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
 - **Email:** mayupatkar68@gmail.com.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayur68&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur68&layout=compact&theme=radical)](https://github.com/Mayur68)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername)
 
