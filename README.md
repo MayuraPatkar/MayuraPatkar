@@ -1,19 +1,28 @@
-# Hi there! 👋
-I'm Mayur, a passionate programmer and BCA student who loves to solve complex problems and explore the latest in tech.
+# Hello World! 👋
+
+I'm Mayur, a passionate programmer and BCA student. I thrive on solving complex problems and exploring the latest tech trends.
 
 ## Skills
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React
-- Databases: MySQL, MongoDB
-- Problem Solving
-- Version Control: Git
+- **Languages:** C, C++, Java, Python
+- **Algorithms:** Design and Analysis of Algorithms (DAA)
+- **Web Development:** HTML, CSS
+- **Frameworks:** React
 
-## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- Email: your.email@example.com
+## Let's Connect!
+- **LinkedIn:** [Your LinkedIn Profile](link)
+- **Twitter:** [Your Twitter Profile](link)
+- **Email:** your.email@example.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)](https://github.com/YourGitHubUsername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+
+### Some Cool Projects 🚀
+- [Project Name](link): Brief description.
+- [Another Project](link): Brief description.
+
+### Coding Quotes to Inspire 🌟
+> "Coding is not just about writing code; it's about creating something meaningful." - Anonymous
+
+Feel free to explore more about me through my repositories! 😊
