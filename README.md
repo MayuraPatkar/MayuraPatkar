@@ -9,7 +9,7 @@ I'm Mayur, a passionate programmer and BCA student. I thrive on solving complex 
 - **Frameworks:** 
 
 ## Let's Connect!
-- **Twitter:** [[Mayur](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
+- **X:** [[Mayur](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
 - **Email:** mayupatkar68@gmail.com.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayur68&show_icons=true&theme=radical)
