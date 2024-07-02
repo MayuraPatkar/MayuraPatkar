@@ -19,8 +19,3 @@ I'm Mayura, a passionate programmer and BCA student. I thrive on solving complex
 
 ### Some Cool Projects 🚀
 - [BitBliss](link): fully fuctional cloud webapp.
-
-### Coding Quotes to Inspire 🌟
-> "Coding is not just about writing code; it's about creating something meaningful." - Anonymous
-
-Feel free to explore more about me through my repositories! 😊
