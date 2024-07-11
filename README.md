@@ -3,10 +3,8 @@
 I'm Mayura, a passionate programmer and BCA student. I thrive on solving complex problems and exploring the latest tech trends.
 
 ## Skills
-- **Languages:** C, C++, Java, Python
+- **Languages:** C, C++, Python, javascript
 - **Algorithms:** Design and Analysis of Algorithms (DAA)
-- **Web Development:** HTML, CSS, javascript, nodejs
-- **Frameworks:** 
 
 ## Let's Connect!
 - **X:** [[Mayura](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
