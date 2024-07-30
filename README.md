@@ -9,7 +9,7 @@ I'm Mayura, a passionate programmer and MCA student. I thrive on solving complex
 ## Let's Connect!
 - **X:** [[Mayura](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
 - **LinkedIn:** [[Mayura](https://www.linkedin.com/in/mayura-patkar/)]
-- **Email:** mayupatkar68@gmail.com.com
+- **Email:** mayurpatkar68@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayura01&show_icons=true&theme=radical)
 
