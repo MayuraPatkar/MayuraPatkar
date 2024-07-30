@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Mayura, a passionate programmer and BCA student. I thrive on solving complex problems and exploring the latest tech trends.
+I'm Mayura, a passionate programmer and MCA student. I thrive on solving complex problems and exploring the latest tech trends.
 
 ## Skills
 - **Languages:** C, C++, Python, javascript
