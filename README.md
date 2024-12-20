@@ -13,7 +13,7 @@ I'm Mayura, a passionate programmer and MCA student. I thrive on solving complex
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayura01&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayura01&layout=compact&theme=radical)](https://github.com/Mayur68)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayura01&layout=compact&theme=radical)](https://github.com/Mayura01)
 
 ### Some Cool Projects 🚀
 - [BitBliss](link): fully fuctional cloud webapp.
