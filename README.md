@@ -1,19 +1,30 @@
-# Hello World! 👋
+# Hi there, I'm Mayur! 👋
 
-I'm Mayura, a passionate programmer and MCA student. I thrive on solving complex problems and exploring the latest tech trends.
+## 🚀 AI Researcher | Deep Learning Engineer | Transformer & Graph Neural Network Enthusiast
 
-## Skills
-- **Languages:** C, C++, Python, javascript
-- **Algorithms:** Design and Analysis of Algorithms (DAA)
+### 🔬 About Me
+I am passionate about **AI research and deep learning**, specializing in **transformers, NLP, reinforcement learning, and graph neural networks**. My focus is on building and optimizing deep models, solving complex AI challenges, and pushing the boundaries of machine learning. 
 
-## Let's Connect!
-- **X:** [[Mayura](https://x.com/mayurpatkar68?t=x81TllvAZ9pmkAUm9z53ag&s=08)]
-- **LinkedIn:** [[Mayura](https://www.linkedin.com/in/mayura-patkar/)]
-- **Email:** mayurpatkar68@gmail.com
+- 💡 Working on **custom transformer models** and **dynamic graph neural networks**.
+- 📖 Exploring **research drift tracking using EvolveGCN**.
+- 🏗️ Building **Omnira**, a transformer-based language model.
+- 🛠️ Open to AI research collaborations and deep learning projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayura01&show_icons=true&theme=radical)
+### ⚡ Skills & Expertise
+- **Deep Learning & NLP**: Transformers (GPT, BERT, T5), Pretraining & Fine-tuning
+- **Graph Neural Networks**: EvolveGCN, GAT, Node2Vec, DGL
+- **Machine Learning**: Reinforcement Learning, Optimization, Concept Drift
+- **Programming & Tools**: Python, PyTorch, TensorFlow, Hugging Face, JAX
+- **Deployment & MLOps**: Hugging Face Spaces, Docker, FastAPI, AWS
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayura01&layout=compact&theme=radical)](https://github.com/Mayura01)
+### 📂 Featured Projects
+- 🔥 [T-CLM2: Custom Transformer Model](https://huggingface.co/) *(Fine-tuned for text generation)*
+- 📊 **Research Drift Tracking with Dynamic GNNs** *(EvolveGCN-based research analysis)*
+- 🤖 **Omnira** *(Transformer-based AI chatbot)*
 
-### Some Cool Projects 🚀
-- [BitBliss](link): fully fuctional cloud webapp.
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayura-patkar) *(Building my AI research network!)*
+- 🐦 [Twitter](https://twitter.com/mayurapatkar) *(Sharing AI updates & experiments)*
+
+### 💻 Let's Build AI Together!
+🚀 I’m always looking for exciting AI research and deep learning projects to collaborate on! Feel free to explore my repositories, contribute, or reach out. Let's innovate in AI! 🤖🔥
