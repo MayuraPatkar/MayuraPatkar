@@ -3,7 +3,7 @@
 **ML engineer · Published GNN researcher · I build software end to end**
 
 I work across the stack, from research and model training to production software.
-I'm looking for [ML / applied AI / software engineering] roles
+I'm looking for ML / applied AI / software engineering roles
 where I can build and ship real systems.
 
 ## What I've built
