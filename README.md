@@ -13,5 +13,5 @@ where I can build and ship real systems.
   [275M Parameters · reddit and blog text training data]
 - **[Shresht Systems Management System]**: a desktop application (TypeScript)
   built from scratch for a real client.
-- **Graph neural network research**: published paper, "[Paper title]", [venue/year].
-  [One line on the contribution.] [Paper](link) · [Code](link)
+- **Graph neural network research**: published paper, "[A Scalable TADGLN LSTM Framework for Modeling Bibliometric Research Drift and Analyzing Research Trends
+]", [March 2026]. [Paper](https://researcher.manipal.edu/en/publications/a-scalable-tadgln-lstm-framework-for-modeling-bibliometric-resear/)
