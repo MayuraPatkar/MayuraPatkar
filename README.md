@@ -1,3 +1,17 @@
-# Hi there, I'm Mayura Patkar!
+# Hi, I'm Mayura Patkar
 
-## AI Researcher | Deep Learning Engineer | Transformer & Graph Neural Network Enthusiast
+**ML engineer · Published GNN researcher · I build software end to end**
+
+I work across the stack, from research and model training to production software.
+I'm looking for [ML / applied AI / software engineering] roles
+where I can build and ship real systems.
+
+## What I've built
+
+- **[TCLM2]**: a decoder-only Transformer language model, built and trained
+  from scratch with causal language modeling.
+  [275M Parameters · reddit and blog text training data]
+- **[Shresht Systems Management System]**: a desktop application (TypeScript)
+  built from scratch for a real client.
+- **Graph neural network research**: published paper, "[Paper title]", [venue/year].
+  [One line on the contribution.] [Paper](link) · [Code](link)
